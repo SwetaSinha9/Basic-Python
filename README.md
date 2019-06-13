@@ -1,1 +1,1 @@
-# Basic-Python
+# Program consits of basics of python.
