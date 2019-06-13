@@ -1,1 +1,1 @@
-# Program consits of basics of python.
+# Program consists of basics code in python.
