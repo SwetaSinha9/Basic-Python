@@ -49,7 +49,7 @@ L= [11, 12, 13, 14]
 index= [11, 12, 13, 14].index(13)
 print("The number 13 exist at index:", index)
 
-#Note: If element exist in list then index function help us to return true value if it does not exist then returns false value. 
+#Note: If element exist in list then index function help us to find the location of element present in list. 
 ###############################################################################
   
 L= [11, 12, 13, 14]
